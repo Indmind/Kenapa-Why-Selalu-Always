@@ -1,0 +1,63 @@
+body{
+    color: rgba(243, 246, 247, 0.47);
+}
+
+.jumbotron{
+  padding-top:50vh;
+  padding-bottom:0px;
+  margin-bottom:0px;
+  color:inherit;
+  background-image: url('../img/tanda_tanya.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;   
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  object-fit: contain
+}
+
+div.jumbotron{
+  text-align:center;
+  padding:30px;
+  padding-top:30vh;
+  height:100vh;
+}
+
+.btn{
+  border-radius:5px;
+}
+
+.container{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.14);
+    font-family: 'Sofia';font-size: 22px;
+}
+
+.custom-alert{
+    position: relative;
+    background-color: #44BCC4;
+    border-radius: 10px;
+    color: rgba(255, 255, 255, 0.82);
+    padding: 10px;
+    z-index: 2;
+    bottom: 40vh;
+}
+
+.cbutton{
+    transition: all .2s ease-in-out;
+    font-size: 15px;
+    float: right;
+    margin-right: 10px;
+}
+
+.cbutton:hover{
+    cursor: pointer;
+    cursor: hand;
+    transform: scale(1.5);
+}
+
+#result{
+    font-size: 15px;
+}
