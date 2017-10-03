@@ -161,7 +161,7 @@ let data = [
     },
     {
         "i": "tanpa",
-        "e": "widhout"
+        "e": "without"
     },
     {
         "i": "meskipun",
@@ -198,5 +198,77 @@ let data = [
     {
         "i": "sementara",
         "e": "meanwhile"
+    },
+    {
+        "i": "membangun",
+        "e": "build"
+    },
+    {
+        "i": "dimana",
+        "e": "where"
+    },
+    {
+        "i": "memiliki",
+        "e": "have"
+    },
+    {
+        "i": "kejarlah",
+        "e": "chase"
+    },
+    {
+        "i": "sampai",
+        "e": "until"
+    },
+    {
+        "i": "setiap",
+        "e": "every"
+    },
+    {
+        "i": "mengatakan",
+        "e": "say"
+    },
+    {
+        "i": "dari",
+        "e": "from"
+    },
+    {
+        "i": "tidak ada",
+        "e": "nothing"
+    },
+    {
+        "i": "membuka",
+        "e": "open"
+    },
+    {
+        "i": "kadang-kadang",
+        "e": "sometimes"
+    },
+    {
+        "i": "melewati",
+        "e": "pass"
+    },
+    {
+        "i": "tentu saja",
+        "e": "of course"
+    },
+    {
+        "i": "sangat",
+        "e": "very"
+    },
+    {
+        "i": "padahal",
+        "e": "whereas"
+    },
+    {
+        "i": "butuh",
+        "e": "need"
+    },
+    {
+        "i": "semoga",
+        "e": "hope"
+    },
+    {
+        "i": "dilindungi",
+        "e": "protected"
     }
 ];
